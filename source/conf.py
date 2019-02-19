@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'TRIK'
-copyright = '2019, CyberTech Labs'
-author = 'CyberTech Labs'
+copyright = '2019, Banana'
+author = 'Banana'
 
 
 # -- General configuration ---------------------------------------------------
@@ -43,7 +43,7 @@ language = 'ru'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------
